@@ -14,9 +14,9 @@ const work = () => {
   return sum
 }
 
-console.log('Start!')
-console.time('Work')
 if (cluster.isMaster) {
+  console.log('Start!')
+  console.time('Work')
   let closed = 0
 
   todo.forEach(_ => {
