@@ -1,0 +1,16 @@
+{
+  "name": "cluster-example",
+  "version": "1.0.0",
+  "description": "Node.js cluster example",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leegeunhyeok/node-cluster-example.git"
+  },
+  "author": "Geunhyeok LEE <dev.ghlee@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/leegeunhyeok/node-cluster-example/issues"
+  },
+  "homepage": "https://github.com/leegeunhyeok/node-cluster-example#readme"
+}
