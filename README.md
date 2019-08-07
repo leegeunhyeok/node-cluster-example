@@ -4,7 +4,7 @@ Node.js cluster example
 
 ## Test job code
 
-- Intel(R) COre(TM) i5-6300HQ @ 2.30GHz => 1 Job duration: `(12 ~ 13s)`
+- Intel(R) Core(TM) i5-6300HQ @ 2.30GHz => 1 Job duration: `(12 ~ 13s)`
 
 ```javascript
 const work = () => {
